@@ -1,4 +1,4 @@
-# FarmersSmartAssistance
+# FarmersSmartAssistance(Krishi Sahayak)
 🌾 An AI-powered web app that helps Indian farmers with crop advice, irrigation planning, and weather insights — available in Hindi and regional languages.
 ### *Farming is not just work — it is a science, a skill, and a timeless art.*
 ### *We are not just a tool. We are a movement to bring every farmer the knowledge they deserve.*
